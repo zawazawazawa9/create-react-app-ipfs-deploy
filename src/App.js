@@ -7,22 +7,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={fleekLogo} className="Fleek-logo" alt="fleek-logo" />
-        <span className="Big-plus">+</span>
-        <img src={reactLogo} className="React-logo" alt="react-logo" />
-        <p>
-          React App deployed on IPFS through Fleek.
-        </p>
-        <a
-          className="App-link"
-          href="https://docs.fleek.co"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn More About Fleek!
-        </a>
-      </header>
+          Simple Storage
+          Contract: 0x4e7C98d527F25F3be9D79769783d4a6C4EF742CC
+          DO NOT BUY
     </div>
   );
 }
